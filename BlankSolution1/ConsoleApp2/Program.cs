@@ -14,6 +14,11 @@ namespace ConsoleApp2
             name = Console.ReadLine();
             Console.WriteLine("tên tôi là: " + name);
 
+            int age;
+            Console.WriteLine("Nhập tuổi: ");
+            age = int.Parse(Console.ReadLine());
+            Console.WriteLine("Tuổi của tôi là: " + age);
+
             Console.ReadKey();
         }
     }
