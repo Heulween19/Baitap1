@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KYskGYpsZfp8jc3Us8vTWG2lKH2+ubdcfjPzc6E+jJFld1dLT8oR2/RaPnq5v/LBDQRP9ABKR/BG+Mf4wtlMWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NGUYEN HUYEN\\OneDrive\\Máy tính\\Baitap1\\BlankSolution1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NGUYEN HUYEN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
